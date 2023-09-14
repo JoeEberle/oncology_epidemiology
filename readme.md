@@ -1,6 +1,6 @@
 # Oncology Epidemiology
 
-![Code Logo](code.png)
+![sample Logo](sample.png)
 
 ## Oncology Epidemiology  - The study of disease within a population
 

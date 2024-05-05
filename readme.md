@@ -48,5 +48,5 @@ To get started with the **Oncology Epidemiology** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](cancer_care.png)  <br>![additional_image](oncology_epidemiology.png)  <br>![additional_image](onology_epidemiology.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](cancer_care.png)  <br>![additional_image](oncology_epidemiology.png)  <br>![additional_image](onology_epidemiology.png)  <br>
     

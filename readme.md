@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Oncology Epidemiology - Epidemiology methodology for oncology 
 Epidemiology methodology for oncology 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Oncology Epidemiology** - an example for your projects
 Epidemiology methodology for oncology 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  

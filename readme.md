@@ -39,11 +39,8 @@ To get started with the **Oncology Epidemiology** solution repository, follow th
  ![additional_image](cancer_care.png)  <br>![additional_image](oncology_epidemiology.png)  <br>![additional_image](onology_epidemiology.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
